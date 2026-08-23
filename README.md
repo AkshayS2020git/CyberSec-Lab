@@ -1,4 +1,4 @@
-# CyberLab Phase 2 — Consent-Gated File Sharing
+# CyberLab  — Consent-Gated File Sharing
 
 ## Setup
 
